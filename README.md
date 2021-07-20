@@ -3,5 +3,5 @@ Payment Gateway Integration is developed using HTML,CSS and JavaScript. For paym
 It is task under "The sparks Foundation" internship.
 
 I created three html files named index, Donate, Contacthere.
-To open website click, open index page with your browser
+To open website, open index file with your browser
 
